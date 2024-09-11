@@ -7,6 +7,12 @@ You will build upon the application we've developed during the lessons in this c
 
 You can clone this repo to run the project locally, or navigate to the workspace in the Udacity course.
 
+## scipt: npm run dev or npm start
+
+## EB_URL: http://uda-lin-p2-dev.us-east-1.elasticbeanstalk.com/
+
+## test_EB_URL: http://uda-lin-p2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://knockoutjs.com/img/feature-icons/templating.png
+
 ## Project Instructions
 
 To complete this project, you will need to:
